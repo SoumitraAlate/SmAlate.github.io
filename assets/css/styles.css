@@ -121,7 +121,7 @@ a.dotted-link:hover {
 }
 .label-theme {
   border: 1px solid green
-  background-color: #cfc ;
+  background: #28a745;;
   padding: 10px ;
 /*   background: #28a745;
   font-size: 12px; */
@@ -129,7 +129,7 @@ a.dotted-link:hover {
 
 .label-info {
     border: 1px solid blue
-    background-color: #5bc0de;
+    background: #5bc0de;
     padding: 10px ;
 }
 /* ======= Header ======= */
