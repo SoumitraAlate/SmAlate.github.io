@@ -120,17 +120,27 @@ a.dotted-link:hover {
   color: #49515a;
 }
 .label-theme {
-  border: 1px solid green ;
+  border-radius: 3px;
+  background: #73AD21;
+  padding: 3px; 
+  width: 5px;
+  height: 3px;
+/*   border: 1px solid green ;
   background: #28a745 ;
-  padding: 5px ;
+  padding: 5px ; */
 /*   background: #28a745;
   font-size: 12px; */
-}
+
 
 .label-info {
-    border: 1px solid blue ;
+    border-radius: 3px;
+    background: #5bc0de;
+    padding: 3px; 
+    width: 5px;
+    height: 3px;
+/*     border: 1px solid blue ;
     background: #5bc0de ;
-    padding: 5px ;
+    padding: 5px ; */
 }
 /* ======= Header ======= */
 .header {
