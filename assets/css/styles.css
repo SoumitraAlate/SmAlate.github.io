@@ -125,6 +125,7 @@ a.dotted-link:hover {
   padding: 4px; 
   width: 4px;
   height: 1px;
+  color : #FFFFFF;
 }
 /*   border: 1px solid green ;
   background: #28a745 ;
@@ -139,6 +140,7 @@ a.dotted-link:hover {
     padding: 4px; 
     width: 4px;
     height: 1px;
+    color: #FFFFFF;
 /*     border: 1px solid blue ;
     background: #5bc0de ;
     padding: 5px ; */
