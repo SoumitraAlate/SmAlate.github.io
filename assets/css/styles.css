@@ -122,9 +122,9 @@ a.dotted-link:hover {
 .label-theme {
   border-radius: 3px;
   background: #73AD21;
-  padding: 3px; 
+  padding: 4px; 
   width: 5px;
-  height: 3px;
+  height: 2px;
 }
 /*   border: 1px solid green ;
   background: #28a745 ;
@@ -136,9 +136,9 @@ a.dotted-link:hover {
 .label-info {
     border-radius: 3px;
     background: #5bc0de;
-    padding: 3px; 
+    padding: 4px; 
     width: 5px;
-    height: 3px;
+    height: 2px;
 /*     border: 1px solid blue ;
     background: #5bc0de ;
     padding: 5px ; */
